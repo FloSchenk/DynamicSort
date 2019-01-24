@@ -1,0 +1,14 @@
+# misc
+*.bat
+*.exe
+*.log
+
+# Eclipse
+/build/
+.classpath
+.project
+
+# intelliJ
+*.iml
+/.idea/
+/out/
